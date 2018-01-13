@@ -1,0 +1,39 @@
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 271116\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\bin\Debug\Lab9_10_BSTree.exe.config
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 271116\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\bin\Debug\Lab9_10_BSTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 271116\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\bin\Debug\Lab9_10_BSTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 271116\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\obj\Debug\Lab9_10_BSTree.csprojResolveAssemblyReference.cache
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 271116\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\obj\Debug\Lab9_10_BSTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 271116\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\obj\Debug\Lab9_10_BSTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 041216\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\bin\Debug\Lab9_10_BSTree.exe.config
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 041216\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\obj\Debug\Lab9_10_BSTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 041216\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\obj\Debug\Lab9_10_BSTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 041216\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\bin\Debug\Lab9_10_BSTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 041216\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\bin\Debug\Lab9_10_BSTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 041216\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\obj\Debug\Lab9_10_BSTree.csprojResolveAssemblyReference.cache
+H:\Uni\Algorithms and Data Structures 041216\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\bin\Debug\Lab9_10_BSTree.exe.config
+H:\Uni\Algorithms and Data Structures 041216\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\obj\Debug\Lab9_10_BSTree.exe
+H:\Uni\Algorithms and Data Structures 041216\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\obj\Debug\Lab9_10_BSTree.pdb
+H:\Uni\Algorithms and Data Structures 041216\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\bin\Debug\Lab9_10_BSTree.exe
+H:\Uni\Algorithms and Data Structures 041216\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\bin\Debug\Lab9_10_BSTree.pdb
+H:\Uni\Algorithms and Data Structures 041216\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\obj\Debug\Lab9_10_BSTree.csprojResolveAssemblyReference.cache
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 160117\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\bin\Debug\Lab9_10_BSTree.exe.config
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 160117\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\obj\Debug\Lab9_10_BSTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 160117\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\obj\Debug\Lab9_10_BSTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 160117\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\bin\Debug\Lab9_10_BSTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 160117\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\bin\Debug\Lab9_10_BSTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 160117\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\obj\Debug\Lab9_10_BSTree.csprojResolveAssemblyReference.cache
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 180117\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\bin\Debug\Lab9_10_BSTree.exe.config
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 180117\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\obj\Debug\Lab9_10_BSTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 180117\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\obj\Debug\Lab9_10_BSTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2301\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\bin\Debug\Lab9_10_BSTree.exe.config
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2301\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\obj\Debug\Lab9_10_BSTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2301\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\obj\Debug\Lab9_10_BSTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2301\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\bin\Debug\Lab9_10_BSTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2301\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\bin\Debug\Lab9_10_BSTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2301\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\obj\Debug\Lab9_10_BSTree.csprojResolveAssemblyReference.cache
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2401\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\bin\Debug\Lab9_10_BSTree.exe.config
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2401\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\obj\Debug\Lab9_10_BSTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2401\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\obj\Debug\Lab9_10_BSTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2401\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\bin\Debug\Lab9_10_BSTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2401\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\bin\Debug\Lab9_10_BSTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2401\Portfolios\Lab9_10_BSTree\Lab9_10_BSTree\obj\Debug\Lab9_10_BSTree.csprojResolveAssemblyReference.cache

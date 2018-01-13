@@ -1,0 +1,12 @@
+H:\Uni\Algorithms and Data Structures 280916\Portfolios\Lab2_Library\Lab2_Library\bin\Debug\Lab2_Library.exe.config
+H:\Uni\Algorithms and Data Structures 280916\Portfolios\Lab2_Library\Lab2_Library\bin\Debug\Lab2_Library.exe
+H:\Uni\Algorithms and Data Structures 280916\Portfolios\Lab2_Library\Lab2_Library\bin\Debug\Lab2_Library.pdb
+H:\Uni\Algorithms and Data Structures 280916\Portfolios\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.csprojResolveAssemblyReference.cache
+H:\Uni\Algorithms and Data Structures 280916\Portfolios\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.exe
+H:\Uni\Algorithms and Data Structures 280916\Portfolios\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 201116\Portfolios\Lab2_Library\Lab2_Library\bin\Debug\Lab2_Library.exe.config
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 201116\Portfolios\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 201116\Portfolios\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 201116\Portfolios\Lab2_Library\Lab2_Library\bin\Debug\Lab2_Library.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 201116\Portfolios\Lab2_Library\Lab2_Library\bin\Debug\Lab2_Library.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 201116\Portfolios\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.csprojResolveAssemblyReference.cache

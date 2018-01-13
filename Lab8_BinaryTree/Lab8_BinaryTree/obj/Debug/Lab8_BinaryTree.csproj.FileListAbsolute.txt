@@ -1,0 +1,21 @@
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 141116\Portfolios\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.exe.config
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 141116\Portfolios\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 141116\Portfolios\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 141116\Portfolios\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 141116\Portfolios\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 141116\Portfolios\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 201116\Portfolios\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.exe.config
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 201116\Portfolios\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 201116\Portfolios\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 201116\Portfolios\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 201116\Portfolios\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 201116\Portfolios\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 271116\Portfolios\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.exe.config
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 271116\Portfolios\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 271116\Portfolios\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 271116\Portfolios\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 271116\Portfolios\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 271116\Portfolios\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2401\Portfolios\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.exe.config
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2401\Portfolios\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2401\Portfolios\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.pdb

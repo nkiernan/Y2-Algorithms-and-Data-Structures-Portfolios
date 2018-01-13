@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\nkier\desktop\uni\year2\ads2802\portfolios\lab19_strings_pointers\lab19_strings_pointers\main.cpp(11): warning C4018: '<': signed/unsigned mismatch
+  Lab19_Strings_Pointers.vcxproj -> C:\Users\nkier\Desktop\Uni\Year2\ADS2802\Portfolios\Lab19_Strings_Pointers\Debug\Lab19_Strings_Pointers.exe
+  Lab19_Strings_Pointers.vcxproj -> C:\Users\nkier\Desktop\Uni\Year2\ADS2802\Portfolios\Lab19_Strings_Pointers\Debug\Lab19_Strings_Pointers.pdb (Partial PDB)

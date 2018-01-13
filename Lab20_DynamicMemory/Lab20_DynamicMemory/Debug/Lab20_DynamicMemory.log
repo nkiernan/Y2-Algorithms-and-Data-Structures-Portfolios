@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\nkier\desktop\uni\year2\ads0603\portfolios\lab20_dynamicmemory\lab20_dynamicmemory\main.cpp(18): warning C4101: 'somedata': unreferenced local variable
+  Lab20_DynamicMemory.vcxproj -> C:\Users\nkier\Desktop\Uni\Year2\ADS0603\Portfolios\Lab20_DynamicMemory\Debug\Lab20_DynamicMemory.exe
+  Lab20_DynamicMemory.vcxproj -> C:\Users\nkier\Desktop\Uni\Year2\ADS0603\Portfolios\Lab20_DynamicMemory\Debug\Lab20_DynamicMemory.pdb (Partial PDB)

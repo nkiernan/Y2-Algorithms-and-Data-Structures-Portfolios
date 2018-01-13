@@ -1,0 +1,19 @@
+H:\Uni\Algorithms and Data Structures 251016\Portfolios\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe.config
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 311016\Portfolios\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe.config
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 311016\Portfolios\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 311016\Portfolios\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 311016\Portfolios\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csprojResolveAssemblyReference.cache
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 311016\Portfolios\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.Form1.resources
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 311016\Portfolios\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.Properties.Resources.resources
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 311016\Portfolios\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csproj.GenerateResource.Cache
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 311016\Portfolios\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 311016\Portfolios\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.pdb
+H:\Uni\Algorithms and Data Structures 131116\Portfolios\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe.config
+H:\Uni\Algorithms and Data Structures 131116\Portfolios\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.exe
+H:\Uni\Algorithms and Data Structures 131116\Portfolios\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.pdb
+H:\Uni\Algorithms and Data Structures 131116\Portfolios\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe
+H:\Uni\Algorithms and Data Structures 131116\Portfolios\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.pdb
+H:\Uni\Algorithms and Data Structures 131116\Portfolios\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csprojResolveAssemblyReference.cache
+H:\Uni\Algorithms and Data Structures 131116\Portfolios\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.Form1.resources
+H:\Uni\Algorithms and Data Structures 131116\Portfolios\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.Properties.Resources.resources
+H:\Uni\Algorithms and Data Structures 131116\Portfolios\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csproj.GenerateResource.Cache

@@ -1,0 +1,36 @@
+H:\Uni\Algorithms and Data Structures 051216\Portfolios\Lab11_AVLTree\Lab11_AVLTree\bin\Debug\Lab11_AVLTree.exe.config
+H:\Uni\Algorithms and Data Structures 051216\Portfolios\Lab11_AVLTree\Lab11_AVLTree\bin\Debug\Lab11_AVLTree.exe
+H:\Uni\Algorithms and Data Structures 051216\Portfolios\Lab11_AVLTree\Lab11_AVLTree\bin\Debug\Lab11_AVLTree.pdb
+H:\Uni\Algorithms and Data Structures 051216\Portfolios\Lab11_AVLTree\Lab11_AVLTree\obj\Debug\Lab11_AVLTree.csprojResolveAssemblyReference.cache
+H:\Uni\Algorithms and Data Structures 051216\Portfolios\Lab11_AVLTree\Lab11_AVLTree\obj\Debug\Lab11_AVLTree.exe
+H:\Uni\Algorithms and Data Structures 051216\Portfolios\Lab11_AVLTree\Lab11_AVLTree\obj\Debug\Lab11_AVLTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 180117\Portfolios\Lab11_AVLTree\Lab11_AVLTree\bin\Debug\Lab11_AVLTree.exe.config
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 180117\Portfolios\Lab11_AVLTree\Lab11_AVLTree\obj\Debug\Lab11_AVLTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 180117\Portfolios\Lab11_AVLTree\Lab11_AVLTree\obj\Debug\Lab11_AVLTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 180117\Portfolios\Lab11_AVLTree\Lab11_AVLTree\bin\Debug\Lab11_AVLTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 180117\Portfolios\Lab11_AVLTree\Lab11_AVLTree\bin\Debug\Lab11_AVLTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 180117\Portfolios\Lab11_AVLTree\Lab11_AVLTree\obj\Debug\Lab11_AVLTree.csprojResolveAssemblyReference.cache
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2301\Portfolios\Lab11_AVLTree\Lab11_AVLTree\bin\Debug\Lab11_AVLTree.exe.config
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2301\Portfolios\Lab11_AVLTree\Lab11_AVLTree\obj\Debug\Lab11_AVLTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2301\Portfolios\Lab11_AVLTree\Lab11_AVLTree\obj\Debug\Lab11_AVLTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2301\Portfolios\Lab11_AVLTree\Lab11_AVLTree\bin\Debug\Lab11_AVLTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2301\Portfolios\Lab11_AVLTree\Lab11_AVLTree\bin\Debug\Lab11_AVLTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2301\Portfolios\Lab11_AVLTree\Lab11_AVLTree\obj\Debug\Lab11_AVLTree.csprojResolveAssemblyReference.cache
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2401\Portfolios\Lab11_AVLTree\Lab11_AVLTree\bin\Debug\Lab11_AVLTree.exe.config
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2401\Portfolios\Lab11_AVLTree\Lab11_AVLTree\obj\Debug\Lab11_AVLTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2401\Portfolios\Lab11_AVLTree\Lab11_AVLTree\obj\Debug\Lab11_AVLTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2401\Portfolios\Lab11_AVLTree\Lab11_AVLTree\bin\Debug\Lab11_AVLTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2401\Portfolios\Lab11_AVLTree\Lab11_AVLTree\bin\Debug\Lab11_AVLTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\ADS2401\Portfolios\Lab11_AVLTree\Lab11_AVLTree\obj\Debug\Lab11_AVLTree.csprojResolveAssemblyReference.cache
+C:\Users\nkiernan3\Desktop\Uni\Year2\ADS2501\Portfolios\Lab11_AVLTree\Lab11_AVLTree\bin\Debug\Lab11_AVLTree.exe.config
+C:\Users\nkiernan3\Desktop\Uni\Year2\ADS2501\Portfolios\Lab11_AVLTree\Lab11_AVLTree\obj\Debug\Lab11_AVLTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year2\ADS2501\Portfolios\Lab11_AVLTree\Lab11_AVLTree\obj\Debug\Lab11_AVLTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year2\ADS2501\Portfolios\Lab11_AVLTree\Lab11_AVLTree\bin\Debug\Lab11_AVLTree.exe
+C:\Users\nkiernan3\Desktop\Uni\Year2\ADS2501\Portfolios\Lab11_AVLTree\Lab11_AVLTree\bin\Debug\Lab11_AVLTree.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year2\ADS2501\Portfolios\Lab11_AVLTree\Lab11_AVLTree\obj\Debug\Lab11_AVLTree.csprojResolveAssemblyReference.cache
+C:\Users\nkier\Desktop\Uni\Year2\ADS2601\Portfolios\Lab11_AVLTree\Lab11_AVLTree\bin\Debug\Lab11_AVLTree.exe.config
+C:\Users\nkier\Desktop\Uni\Year2\ADS2601\Portfolios\Lab11_AVLTree\Lab11_AVLTree\bin\Debug\Lab11_AVLTree.exe
+C:\Users\nkier\Desktop\Uni\Year2\ADS2601\Portfolios\Lab11_AVLTree\Lab11_AVLTree\bin\Debug\Lab11_AVLTree.pdb
+C:\Users\nkier\Desktop\Uni\Year2\ADS2601\Portfolios\Lab11_AVLTree\Lab11_AVLTree\obj\Debug\Lab11_AVLTree.csprojResolveAssemblyReference.cache
+C:\Users\nkier\Desktop\Uni\Year2\ADS2601\Portfolios\Lab11_AVLTree\Lab11_AVLTree\obj\Debug\Lab11_AVLTree.exe
+C:\Users\nkier\Desktop\Uni\Year2\ADS2601\Portfolios\Lab11_AVLTree\Lab11_AVLTree\obj\Debug\Lab11_AVLTree.pdb

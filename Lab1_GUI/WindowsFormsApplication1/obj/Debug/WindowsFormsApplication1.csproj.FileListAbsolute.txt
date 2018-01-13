@@ -1,0 +1,35 @@
+H:\Uni\Algorithms and Data Structures\Lab1_GUI\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+H:\Uni\Algorithms and Data Structures\Lab1_GUI\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\Uni\Algorithms and Data Structures\Lab1_GUI\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+H:\Uni\Algorithms and Data Structures\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+H:\Uni\Algorithms and Data Structures\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\Uni\Algorithms and Data Structures\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+H:\Uni\Algorithms and Data Structures\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+H:\Uni\Algorithms and Data Structures\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+H:\Uni\Algorithms and Data Structures\Portfolios\Lab1_GUI\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+H:\Uni\Algorithms and Data Structures\Portfolios\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+H:\Uni\Algorithms and Data Structures\Portfolios\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+H:\Uni\Algorithms and Data Structures\Portfolios\Lab1_GUI\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\Uni\Algorithms and Data Structures\Portfolios\Lab1_GUI\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+H:\Uni\Algorithms and Data Structures\Portfolios\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+H:\Uni\Algorithms and Data Structures\Portfolios\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+H:\Uni\Algorithms and Data Structures\Portfolios\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\Uni\Algorithms and Data Structures\Portfolios\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 260916\Portfolios\Lab1_GUI\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 260916\Portfolios\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 260916\Portfolios\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 260916\Portfolios\Lab1_GUI\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 260916\Portfolios\Lab1_GUI\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 260916\Portfolios\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 260916\Portfolios\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 260916\Portfolios\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 260916\Portfolios\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+H:\Uni\Algorithms and Data Structures 280916\Portfolios\Lab1_GUI\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+H:\Uni\Algorithms and Data Structures 280916\Portfolios\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+H:\Uni\Algorithms and Data Structures 280916\Portfolios\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+H:\Uni\Algorithms and Data Structures 280916\Portfolios\Lab1_GUI\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\Uni\Algorithms and Data Structures 280916\Portfolios\Lab1_GUI\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+H:\Uni\Algorithms and Data Structures 280916\Portfolios\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+H:\Uni\Algorithms and Data Structures 280916\Portfolios\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+H:\Uni\Algorithms and Data Structures 280916\Portfolios\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\Uni\Algorithms and Data Structures 280916\Portfolios\Lab1_GUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

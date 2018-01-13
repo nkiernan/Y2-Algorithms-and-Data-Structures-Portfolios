@@ -1,0 +1,23 @@
+H:\Documents\Visual Studio 2012\Projects\StackCalculator\StackCalculator\obj\Debug\StackCalculator.csprojResolveAssemblyReference.cache
+H:\Documents\Visual Studio 2012\Projects\StackCalculator\StackCalculator\obj\Debug\StackCalculator.Form1.resources
+H:\Documents\Visual Studio 2012\Projects\StackCalculator\StackCalculator\obj\Debug\StackCalculator.csproj.GenerateResource.Cache
+H:\Documents\Visual Studio 2012\Projects\StackCalculator\StackCalculator\bin\Debug\StackCalculator.exe
+H:\Documents\Visual Studio 2012\Projects\StackCalculator\StackCalculator\bin\Debug\StackCalculator.pdb
+H:\Documents\Visual Studio 2012\Projects\StackCalculator\StackCalculator\obj\Debug\StackCalculator.exe
+H:\Documents\Visual Studio 2012\Projects\StackCalculator\StackCalculator\obj\Debug\StackCalculator.pdb
+C:\Users\99900733\Downloads\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.exe
+C:\Users\99900733\Downloads\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.pdb
+C:\Users\99900733\Downloads\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.csprojResolveAssemblyReference.cache
+C:\Users\99900733\Downloads\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.Form1.resources
+C:\Users\99900733\Downloads\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.csproj.GenerateResource.Cache
+H:\Uni\Algorithms and Data Structures 031016\Portfolios\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.exe
+H:\Uni\Algorithms and Data Structures 031016\Portfolios\StackCalculator\StackCalculator\StackCalculator\bin\Debug\StackCalculator.exe
+H:\Uni\Algorithms and Data Structures 031016\Portfolios\StackCalculator\StackCalculator\StackCalculator\bin\Debug\StackCalculator.pdb
+H:\Uni\Algorithms and Data Structures 031016\Portfolios\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.csprojResolveAssemblyReference.cache
+H:\Uni\Algorithms and Data Structures 031016\Portfolios\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.Form1.resources
+H:\Uni\Algorithms and Data Structures 031016\Portfolios\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.csproj.GenerateResource.Cache
+H:\Uni\Algorithms and Data Structures 031016\Portfolios\StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.pdb
+H:\Uni\Algorithms and Data Structures 251016\Portfolios\Lab3_StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.exe
+H:\Uni\Algorithms and Data Structures 251016\Portfolios\Lab3_StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.pdb
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 201116\Portfolios\Lab3_StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.exe
+C:\Users\nkiernan3\Desktop\Uni\Year 2\Algorithms and Data Structures 201116\Portfolios\Lab3_StackCalculator\StackCalculator\StackCalculator\obj\Debug\StackCalculator.pdb
